@@ -1,0 +1,50 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.foodCard {
+    border-radius: 20px;
+    box-shadow: 1px 2px rgb(223, 223, 223);
+}
+
+.foodCard:hover {
+    opacity: 80%;
+    background-color: rgb(230, 245, 251);
+}
+
+.input-sec {
+    border: 1px solid;
+    margin: auto;
+}
+
+#heading {
+    margin: 100px 0px;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#preDisplay {
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#details {
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    color: tomato;
+    font-style: italic;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.fa-fire {
+    color: rgba(255, 148, 9, 0.849);
+}
